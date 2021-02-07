@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## 个人简介
 
-You can use the [editor on GitHub](https://github.com/dravenww/dravenww.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+德莱问 -- draven
+- 专注于移动端体验
+- 专注于新技术更新迭代，源码学习
+- 热衷于项目重构
+- 写的了react，用的了vue，撸的了框架
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## 掘金
+个人主页：https://juejin.cn/user/1732486056921614
+### Vue2源码解读系列
+- [vue声明阶段所做的事情](https://juejin.cn/post/6868227696460038158)
+- [vue被new的时候干了什么](https://juejin.cn/post/6868227435680333837)
+- [vue内部initState时的事情](https://juejin.cn/post/6870830410264707085)
+- [vue核心-observe](https://juejin.cn/post/6872232567244849160)
+- [vue核心-Watcher&Scheduler](https://juejin.cn/post/6872601393471946760)
+- [vue核心-从浏览器事件机制分析nextTick](https://juejin.cn/post/6873007808564953096)
+- [vue核心-mount |& patch(diff)](https://juejin.cn/post/6873007808564953096)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### vue3源码解读系列
+- [解读预热，vue3.0来袭](https://juejin.cn/post/6875880245036072974)
+- [调用createApp时做了什么事情](https://juejin.cn/post/6881910894473773069)
+- [vue内部调用mount时干了什么](https://juejin.cn/post/6883072260123394061)
+- [vue3的dom diff时如何实现的](https://juejin.cn/post/6883398472368652296)
+- [vue3新特性-composition Api](https://juejin.cn/post/6893045604592418830)
 
-```markdown
-Syntax highlighted code block
+### react知识点
+- [如何debug react的源码](https://juejin.cn/post/6912046276301455374#heading-1)
+- [react技术揭秘](https://react.iamkasong.com/)
 
-# Header 1
-## Header 2
-### Header 3
+### 基础面试相关
+- [前端中高级面试知识点总结](https://juejin.cn/post/6905635299897032718)
+### 编译框架
+- [webpack编译的主流程时怎样的](https://juejin.cn/post/6904829145188925447)
 
-- Bulleted
-- List
+持续更新
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dravenww/dravenww.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 联系我
+Email：jackwen110200@163.com
