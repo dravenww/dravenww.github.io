@@ -16,7 +16,7 @@
 - [vue核心-observe](https://juejin.cn/post/6872232567244849160)
 - [vue核心-Watcher&Scheduler](https://juejin.cn/post/6872601393471946760)
 - [vue核心-从浏览器事件机制分析nextTick](https://juejin.cn/post/6873007808564953096)
-- [vue核心-mount |& patch(diff)](https://juejin.cn/post/6873007808564953096)
+- [vue核心-mount 与 patch(diff)](https://juejin.cn/post/6873007808564953096)
 
 ### vue3源码解读系列
 - [解读预热，vue3.0来袭](https://juejin.cn/post/6875880245036072974)
